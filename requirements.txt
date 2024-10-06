@@ -1,0 +1,7 @@
+streamlit
+numpy
+rasterio
+scikit-learn
+matplotlib
+requests
+netCDF4
